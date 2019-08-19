@@ -6,9 +6,8 @@ The output is a simulation of a toy robot moving on a square tabletop, of dimens
 
 python simulate.py commands_2.txt
 
-## Note - 
+## Note 
 If input files in different directory, sample invocation is - python simulate.py path_input_dir/commands_1.txt
 
-=======
 
 
